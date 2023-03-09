@@ -1,0 +1,20 @@
+.dialog {
+    align-items: center;
+    display: flex;
+    margin-top: 30px;
+
+}
+.dialog img {
+    margin-right: 10px;
+}
+
+.dialogMy {
+    align-items: center;
+    margin-left: 10px;
+    display: flex;
+    justify-content: flex-end;
+}
+.dialogMy img {
+    align-items: center;
+    margin-left: 10px;
+}
